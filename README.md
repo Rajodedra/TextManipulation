@@ -1,5 +1,5 @@
 # TextManipulation
-license.txt
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Text Faulter is a Django-based web application that provides various text manipulation services, including removing punctuations, extra spaces, newlines, counting characters, and converting text to uppercase.
 
